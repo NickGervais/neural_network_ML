@@ -1,1 +1,2 @@
-"# neural_network_ML" 
+# neural_network_ML
+This is an implementation of a Neural Network from scratch using Python and the Numpy package. It walks through important mathematic equations that power a Neural Network, equations such as forward and back propogation functions as well as sigmoid, sigmoid derivative, and softmax equation functions. I realy enjoyed researching all the mathematics behind a Neural Network and implementing it into Python. I hope this repository can help you better understand a Neural Network as well!
